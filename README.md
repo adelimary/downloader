@@ -85,14 +85,18 @@ a
 
 ---
 
+---
+
 ## فایل های دانلود شده در گیتهاب شما :
 
 1. [Xray-windows-64](https://github.com/adelimary/downloader/tree/main/downloads/Xray-windows-64)
 
-2. [tor-relay-scanner-1.0.4](https://github.com/adelimary/downloader/tree/main/downloads/tor-relay-scanner-1.0.4)
+2. [slipnet-windows-amd64](https://github.com/adelimary/downloader/tree/main/downloads/slipnet-windows-amd64)
 
-3. [view_video](https://github.com/adelimary/downloader/tree/main/downloads/view_video)
+3. [tor-relay-scanner-1.0.4](https://github.com/adelimary/downloader/tree/main/downloads/tor-relay-scanner-1.0.4)
 
-4. [watch](https://github.com/adelimary/downloader/tree/main/downloads/watch)
+4. [view_video](https://github.com/adelimary/downloader/tree/main/downloads/view_video)
+
+5. [watch](https://github.com/adelimary/downloader/tree/main/downloads/watch)
 
 ---
