@@ -81,10 +81,14 @@ a
 
 ---
 
+---
+
 ## فایل های دانلود شده در گیتهاب شما :
 
 1. [Xray-windows-64](https://github.com/adelimary/downloader/tree/main/downloads/Xray-windows-64)
 
-2. [watch](https://github.com/adelimary/downloader/tree/main/downloads/watch)
+2. [tor-relay-scanner-1.0.4](https://github.com/adelimary/downloader/tree/main/downloads/tor-relay-scanner-1.0.4)
+
+3. [watch](https://github.com/adelimary/downloader/tree/main/downloads/watch)
 
 ---
