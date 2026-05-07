@@ -89,18 +89,22 @@ a
 
 ---
 
+---
+
 ## فایل های دانلود شده در گیتهاب شما :
 
-1. [WinCFScan-win-v1.4.96](https://github.com/adelimary/downloader/tree/main/downloads/WinCFScan-win-v1.4.96)
+1. [Nova.App.V1](https://github.com/adelimary/downloader/tree/main/downloads/Nova.App.V1)
 
-2. [Xray-windows-64](https://github.com/adelimary/downloader/tree/main/downloads/Xray-windows-64)
+2. [WinCFScan-win-v1.4.96](https://github.com/adelimary/downloader/tree/main/downloads/WinCFScan-win-v1.4.96)
 
-3. [slipnet-windows-amd64](https://github.com/adelimary/downloader/tree/main/downloads/slipnet-windows-amd64)
+3. [Xray-windows-64](https://github.com/adelimary/downloader/tree/main/downloads/Xray-windows-64)
 
-4. [tor-relay-scanner-1.0.4](https://github.com/adelimary/downloader/tree/main/downloads/tor-relay-scanner-1.0.4)
+4. [slipnet-windows-amd64](https://github.com/adelimary/downloader/tree/main/downloads/slipnet-windows-amd64)
 
-5. [view_video](https://github.com/adelimary/downloader/tree/main/downloads/view_video)
+5. [tor-relay-scanner-1.0.4](https://github.com/adelimary/downloader/tree/main/downloads/tor-relay-scanner-1.0.4)
 
-6. [watch](https://github.com/adelimary/downloader/tree/main/downloads/watch)
+6. [view_video](https://github.com/adelimary/downloader/tree/main/downloads/view_video)
+
+7. [watch](https://github.com/adelimary/downloader/tree/main/downloads/watch)
 
 ---
